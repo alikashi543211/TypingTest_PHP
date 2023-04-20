@@ -1,0 +1,44 @@
+body { 
+  background-image: url(images/bg1.jpg);
+ background-repeat: no-repeat;
+    background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    height: 100%;
+   
+}
+
+.panel-default {
+opacity: 1;
+  
+margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 230px;
+   
+}
+.form-group.last { margin-bottom:0px; }
+
+.h1{
+    color: white;
+    font-family: Monotype Corsiva;
+    font-size: 55px;
+    text-align: center;
+    
+}
+.heading{
+    display: inline-block; 
+     
+    
+}
+.form-group.last{
+    margin-top: 30px;
+    display: block;
+}
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top:0px;
+}
